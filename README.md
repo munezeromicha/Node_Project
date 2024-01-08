@@ -1,2 +1,4 @@
 # Node_Project
-How to Build a REST API with Express and Mongoose
+### How to Build a REST API with Express and Mongoose
+
+Building a REST API with Express and Mongoose involves creating a web server using the Express.js framework for handling HTTP requests and responses. Mongoose is a popular MongoDB object modeling tool for Node.js, which simplifies interactions with MongoDB databases. To start, you would initialize your project with npm, install the necessary dependencies (express and mongoose), and set up a basic Express application. Define your data models using Mongoose schemas, representing the structure of the documents in MongoDB. Create routes for handling various HTTP methods (GET, POST, PUT, DELETE) to perform CRUD (Create, Read, Update, Delete) operations on your MongoDB database. Utilize middleware in Express to parse incoming JSON data and handle errors. Finally, deploy and test your REST API. This combination of Express and Mongoose provides a robust foundation for developing scalable and efficient server-side applications with MongoDB as the underlying database.
